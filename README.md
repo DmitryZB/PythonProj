@@ -1,3 +1,3 @@
-# CSmoney_parser
+# PYTHON Projects
 
-Needs to CS-money - Steam trades
+my python projects portfolio
